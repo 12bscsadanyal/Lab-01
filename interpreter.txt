@@ -1,0 +1,11 @@
+Let x = 8
+Let y = 11
+Let z = 40.52
+print x + y
+print y ilove pakistan
+x = x + y + y
+x = x + 2 * 2
+v = 6 + 3
+Let v = "Danyal"
+Let x = 5.5
+Let z = "Pakistan"
